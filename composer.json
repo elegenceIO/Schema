@@ -1,0 +1,16 @@
+{
+    "name": "elegenceio/schema",
+    "description": "Schema Builder syntax to be used with Elegenceio/orm and lazarus php packages",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ElegenceIO\\Database\\Schema":""
+        }
+    },
+    "authors": [
+        {
+            "name": "itzzpadre"
+        }
+    ],
+    "require": {}
+}
